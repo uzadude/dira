@@ -1312,5 +1312,41 @@
         "LocalHousing": "12",
         "LotteryStageSummery": "2703",
         "CityDescription": "\u05e8\u05db\u05e1\u05d9\u05dd"
+    },
+    "1982": {
+        "LotteryNumber": "1982",
+        "HousingUnits": "102",
+        "TargetHousingUnits": "51",
+        "LotteryApparmentsNum": "51",
+        "LocalHousing": "10",
+        "LotteryStageSummery": "2871",
+        "CityDescription": "\u05e8\u05db\u05e1\u05d9\u05dd"
+    },
+    "1954": {
+        "LotteryNumber": "1954",
+        "HousingUnits": "52",
+        "TargetHousingUnits": "26",
+        "LotteryApparmentsNum": "26",
+        "LocalHousing": "12",
+        "LotteryStageSummery": "2080",
+        "CityDescription": "\u05e9\u05d3\u05e8\u05d5\u05ea"
+    },
+    "1955": {
+        "LotteryNumber": "1955",
+        "HousingUnits": "24",
+        "TargetHousingUnits": "12",
+        "LotteryApparmentsNum": "12",
+        "LocalHousing": "5",
+        "LotteryStageSummery": "1977",
+        "CityDescription": "\u05e9\u05d3\u05e8\u05d5\u05ea"
+    },
+    "1845": {
+        "LotteryNumber": "1845",
+        "HousingUnits": "340",
+        "TargetHousingUnits": "153",
+        "LotteryApparmentsNum": "153",
+        "LocalHousing": "22",
+        "LotteryStageSummery": "18365",
+        "CityDescription": "\u05ea\u05dc \u05d0\u05d1\u05d9\u05d1 -\u05d9\u05e4\u05d5"
     }
 }
